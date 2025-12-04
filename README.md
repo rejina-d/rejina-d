@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Rejina Dangal 👋</h1>
 <h3 align="center">Student passionate about web development and designing.</h3>
 
-- 🔭 I’m currently working on **Blog Management System**
-
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
 - ⚡ **surviving on Butterbeer & bugs 🐞🍺**
   

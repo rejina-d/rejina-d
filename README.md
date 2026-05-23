@@ -20,9 +20,6 @@ Frontend Developer • Django Learner • Creative Coder
 - 📍 From Nepal
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rejina-d" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rejina-d" />

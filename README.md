@@ -21,11 +21,15 @@ Frontend Developer • Django Learner • Creative Coder
 
 ## GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rejina-d&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rejina-d" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejina-d&layout=compact&theme=rose_pine" />
+  <img src="https://streak-stats.demolab.com?user=rejina-d" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rejina-d" />
 </p>
 
 <p align="center">

@@ -9,13 +9,25 @@ Frontend Developer • Django Learner • Creative Coder
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FF9ECB&center=true&vCenter=true&width=600&lines=Frontend+Developer;Django+Learner;Building+beautiful+web+experiences;Coffee+%2B+Music+%2B+Code" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FF9ECB&center=true&vCenter=true&width=600&lines=Frontend+Developer;Django+Developer;Building+beautiful+web+experiences;Coffee+%2B+Music+%2B+Code" />
 </p>
 
 ## 🌸 About Me
 
 - 🌱 Currently learning React & REST APIs
 - 💻 Passionate about UI/UX
-- ☁️ AWS Certified Solutions Architect – Associate
-- 🎀 Love dark aesthetics, poetry & meaningful designs
+- ☁️ AWS Certified Associate
 - 📍 From Nepal
+
+## GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rejina-d&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejina-d&layout=compact&theme=rose_pine" />
+</p>
+
+<p align="center">
+✨ Building ideas into experiences ✨
+</p>
